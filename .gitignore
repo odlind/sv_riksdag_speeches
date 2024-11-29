@@ -1,0 +1,13 @@
+.Rproj.user
+*.Rproj
+.Rhistory
+*.RData
+.Ruserdata
+*.xlsx
+*.csv
+*.docx
+*.xml
+*.json
+*.zip
+original thesis material/
+
