@@ -49,5 +49,4 @@ Encoding(speech_data[["dok_titel"]]) <- "UTF-8"
 
 
 #Save data
-setwd("../../Militarisering projekt/")
-write.csv(speech_data,"Anföranden riksdag/data/speech_data.csv", row.names = FALSE)
+write.csv(speech_data,"sv_riksdag_speeches/data/speech_data.csv", row.names = FALSE)
